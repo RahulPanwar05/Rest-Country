@@ -1,6 +1,7 @@
 Prerequisite
 
-Node.js and npm,
+Node.js and npm,\
+
 Run command : npm run dev,
 
 Api used : Rest country api 
